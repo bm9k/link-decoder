@@ -36,4 +36,3 @@ You can deploy the `dist` folder to any static host provider (netlify, surge, no
 ## TODO
  - [] Undo/redo
  - [] Persist in local storage/save to file
- - [] GHPages
